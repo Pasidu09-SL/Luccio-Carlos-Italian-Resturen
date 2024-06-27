@@ -1,9 +1,9 @@
 import java.util.*;
 
 import customer.Customer;
-import menuitem.MenuItem; //Import menuItem class 
-import oder.Order; //Import order class 
-import diningTable.DiningTable; //Import diningTable class 
+import menuitem.MenuItem; 
+import oder.Order; 
+import diningTable.DiningTable;
 
 class App {
     private List<DiningTable> tables;
