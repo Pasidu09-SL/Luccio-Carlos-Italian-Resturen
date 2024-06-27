@@ -1,7 +1,7 @@
 import java.util.*;
 
 import customer.Customer;
-import menuitem.MenuItem; //Import menuItem class 
+import menuitem.MenuItem; //Import menuItem class testing2 
 import oder.Order; //Import order class 
 import diningTable.DiningTable; //Import diningTable class 
 
